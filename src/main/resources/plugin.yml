@@ -1,0 +1,5 @@
+name: PlayerListRemover
+main: ru.fedfox.PlayerListRemover.Main
+version: 1.1.0
+api: 1.0.14
+author: FedFox
